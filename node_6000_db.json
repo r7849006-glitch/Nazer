@@ -1,0 +1,19 @@
+{
+  "block_1042": {
+    "value": [
+      {
+        "from": "User_A",
+        "to": "User_B",
+        "amount": 15.0,
+        "asset": "RVC"
+      },
+      {
+        "from": "Mining_Reward",
+        "to": "User_A",
+        "amount": 2.5,
+        "asset": "RVC"
+      }
+    ],
+    "updated_at": "2026-11-13T08:21:14.660349+00:00"
+  }
+}
